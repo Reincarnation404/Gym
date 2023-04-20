@@ -2,6 +2,6 @@ package com.example.gymtest
 
 class Danny {
     fun d1() {
-        println("1111")
+        println("00000")
     }
 }
