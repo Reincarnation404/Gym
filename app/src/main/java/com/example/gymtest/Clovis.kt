@@ -2,6 +2,6 @@ package com.example.gymtest
 
 class Clovis {
     fun main() {
-        println("我今天遠端上課")
+        println("測試合併")
     }
 }
