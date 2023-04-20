@@ -2,6 +2,6 @@ package com.example.gymtest
 
 class Clovis {
     fun main() {
-        println("準備好報下一班APP!")
+        println("再來試一下")
     }
 }
