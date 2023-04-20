@@ -2,6 +2,6 @@ package com.example.gymtest
 
 class Jeff {
     fun f1() {
-        println("Who is Spencer, Clovis?")
+        println("霹靂卡霹靂拉拉")
     }
 }
