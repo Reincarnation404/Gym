@@ -8,7 +8,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.gymtest"
+        applicationId "com.example.geniusgym"
         minSdk 26
         targetSdk 33
         versionCode 1
